@@ -1,0 +1,16 @@
+node_modules
+dist
+out
+.DS_Store
+.wepycache
+.idea/
+.token.json
+.exe.stackdump
+.vscode
+yarn.lock
+package-lock.json
+mcconf
+wxtp
+# webstorm配置文件
+webstorm.config.js
+.eslintcache
