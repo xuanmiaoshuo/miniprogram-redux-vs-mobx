@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/mobx/mobx",
-    "pages/redux/redux"
+    "pages/redux/redux",
+    "pages/mobx/mobx"
   ],
   "window": {
     "backgroundTextStyle": "light",

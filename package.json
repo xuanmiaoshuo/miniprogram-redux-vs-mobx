@@ -4,7 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "wechat-weapp-mobx": "^0.1.9"
+    "redux": "^4.0.1",
+    "wechat-weapp-mobx": "^0.1.9",
+    "wechat-weapp-redux": "^0.1.3"
   },
   "devDependencies": {},
   "scripts": {
