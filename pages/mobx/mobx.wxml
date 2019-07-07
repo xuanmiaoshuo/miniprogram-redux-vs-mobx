@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view>
+  <text>a = {{props.store.a}} </text>
+  <view>
+    <button bindtap="incA">增加 a</button>
+    <button bindtap="decA">减少 a</button>
+    <button bindtap="double">加倍 a</button>
+  </view>
+</view>
